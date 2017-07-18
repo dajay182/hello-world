@@ -1,2 +1,2 @@
 # hello-world
-First Repository
+Master Student trying out GitHub for the first time!
